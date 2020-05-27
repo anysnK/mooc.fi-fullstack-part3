@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e05678d3.chunk.css",
-    "main.js": "/static/js/main.56159431.chunk.js",
-    "main.js.map": "/static/js/main.56159431.chunk.js.map",
+    "main.js": "/static/js/main.2ead4565.chunk.js",
+    "main.js.map": "/static/js/main.2ead4565.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fac6ad05.js",
     "runtime-main.js.map": "/static/js/runtime-main.fac6ad05.js.map",
     "static/js/2.442aa26b.chunk.js": "/static/js/2.442aa26b.chunk.js",
     "static/js/2.442aa26b.chunk.js.map": "/static/js/2.442aa26b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.55f9913a730a7eca950bc84c45a3e772.js": "/precache-manifest.55f9913a730a7eca950bc84c45a3e772.js",
+    "precache-manifest.ad50497cbdae3ff58bfae24ea645fdc5.js": "/precache-manifest.ad50497cbdae3ff58bfae24ea645fdc5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e05678d3.chunk.css.map": "/static/css/main.e05678d3.chunk.css.map",
     "static/js/2.442aa26b.chunk.js.LICENSE.txt": "/static/js/2.442aa26b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fac6ad05.js",
     "static/js/2.442aa26b.chunk.js",
     "static/css/main.e05678d3.chunk.css",
-    "static/js/main.56159431.chunk.js"
+    "static/js/main.2ead4565.chunk.js"
   ]
 }
